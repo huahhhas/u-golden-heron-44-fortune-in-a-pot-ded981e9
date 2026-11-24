@@ -11,7 +11,7 @@ import hashlib
 import os
 import sys
 
-LINE = "You will outgrow this pot, but never this windowsill \u2014 the sun already saves you the best seat every morning."
+LINE = "Your leaves reach for the sun every morning, and the windowsill has already decided you are its favourite tenant."
 MAX_CHARS = 120
 
 
